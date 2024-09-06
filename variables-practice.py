@@ -43,8 +43,8 @@ print(book_price)
 # Use the print function to print your age on your computer screen
 
 first_name="Qwynn"
-City="Elk_rapids"
+city="Elk_rapids"
 age="16"
 print(first_name)
-print(City)
+print(city)
 print(age)
